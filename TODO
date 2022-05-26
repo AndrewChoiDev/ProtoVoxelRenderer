@@ -1,0 +1,9 @@
+Voxel World
+    - Support for multiple voxel maps stitched together
+    - possible octree Support
+
+Graphics
+    - Proper rasterized models
+    - Correct dynamic resolution scaling
+        * Images themselves should be at max resolution and should NOT be reallocated
+    - Gather Bokeh?
